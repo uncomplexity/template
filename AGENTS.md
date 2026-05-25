@@ -18,9 +18,6 @@
 - Ansible
   - https://docs.ansible.com/
   - https://github.com/ansible/ansible
-- Mise
-  - https://mise.en.dev/
-  - https://github.com/jdx/mise
 
 #### Package Managers
 
@@ -109,3 +106,9 @@
 - TypeScript
   - https://www.typescriptlang.org/
   - https://www.typescriptlang.org/docs/
+
+#### Tools
+
+- Mise
+  - https://mise.en.dev/
+  - https://github.com/jdx/mise
