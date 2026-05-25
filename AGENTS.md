@@ -76,6 +76,14 @@
   - https://www.npmjs.com/package/@tsconfig/node24
   - https://www.npmjs.com/package/@tsconfig/node-ts
 
+#### Databases
+
+- PostgreSQL
+  - https://www.postgresql.org/docs/
+- Redis
+  - https://redis.antirez.com/
+  - https://redis.antirez.com/llms.txt
+
 #### Code Linting & Formatting
 
 - Biome
