@@ -11,12 +11,37 @@
 ### Client
 
 - Must be in `client` folder.
+- Must be in `docker-compose.yml` as `client`.
 - Uses Tanstack Start, Fontsource, Mantine, & Recharts.
 
 ### Server
 
 - Must be in `server` folder.
+- Must be in `docker-compose.yml` as `server`.
 - Uses Node.js, TSConfig Bases, Hono, ORPC, Drizzle, & Postgres.js.
+
+### Caddy
+
+- Must be in `docker-compose.yml` as `caddy`.
+
+## Managed
+
+- We use GitHub for repository, branches, and workflows.
+- We use DigitalOcean for DNS, compute, and object storage.
+- GitHub Provider
+  - https://registry.terraform.io/providers/integrations/github/latest/docs
+  - https://search.opentofu.org/provider/opentofu/github/latest
+  - https://github.com/integrations/terraform-provider-github
+- DigitalOcean Provider
+  - https://registry.terraform.io/providers/digitalocean/digitalocean/latest
+  - https://search.opentofu.org/provider/opentofu/digitalocean/latest
+  - https://github.com/digitalocean/terraform-provider-digitalocean
+
+## Unmanaged
+
+- PostgreSQL
+- Redis
+- Caddy
 
 ## Documentations
 
