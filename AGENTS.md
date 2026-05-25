@@ -93,6 +93,12 @@
 - Redis
   - https://redis.antirez.com/
   - https://redis.antirez.com/llms.txt
+- Typesense
+  - https://typesense.org/
+  - https://typesense.org/docs/
+  - https://github.com/typesense/typesense
+  - https://github.com/typesense/typesense-website
+  - https://github.com/typesense/typesense-js
 
 #### Code Linting & Formatting
 
