@@ -136,6 +136,11 @@
   - https://github.com/drizzle-team/drizzle-orm-docs
 - Postgres.js
   - https://github.com/porsager/postgres
+- Better Auth
+  - https://better-auth.com/
+  - https://better-auth.com/llms.txt
+  - https://github.com/better-auth/better-auth
+  - https://github.com/better-auth/awesome
 
 ### Databases
 
