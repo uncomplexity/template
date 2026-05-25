@@ -18,6 +18,16 @@
 - Ansible
   - https://docs.ansible.com/
 
+#### Package Managers
+
+- pnpm
+  - https://pnpm.io/
+  - https://github.com/pnpm/pnpm
+- uv
+  - https://docs.astral.sh/uv/
+  - https://docs.astral.sh/uv/llms.txt
+  - https://github.com/astral-sh/uv
+
 #### Front-end
 
 - React.js
