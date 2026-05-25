@@ -12,13 +12,13 @@
 
 - Must be in `client` folder.
 - Must be in `docker-compose.yml` as `client`.
-- Uses Tanstack Start, Fontsource, Mantine, & Recharts.
+- Uses Tanstack Start, Tanstack Query, Fontsource, Mantine, & Recharts.
 
 ### Server
 
 - Must be in `server` folder.
 - Must be in `docker-compose.yml` as `server`.
-- Uses Node.js, TSConfig Bases, Hono, ORPC, Drizzle, & Postgres.js.
+- Uses Node.js, TSConfig Bases, Hono, ORPC, Drizzle, Postgres.js, & Better Auth.
 
 ### Caddy
 
@@ -89,15 +89,18 @@
   - https://vite.dev/
   - https://vite.dev/llms.txt
   - https://vite.dev/llms-full.txt
-- Tanstack Start
+- Tanstack Start & Tanstack Query
   - https://tanstack.com/
   - https://tanstack.com/llms.txt
+  - https://github.com/TanStack/router
+  - https://github.com/TanStack/query
 - Fontsource
   - https://fontsource.org/
   - https://fontsource.org/llms.txt
   - https://fontsource.org/llms-full.txt
   - https://fontsource.org/fonts/inter
   - https://fontsource.org/fonts/jetbrains-mono
+  - https://github.com/fontsource/fontsource
 - Mantine
   - https://mantine.dev/
   - https://mantine.dev/llms.txt
@@ -113,7 +116,7 @@
 - Node.js
   - https://nodejs.org/
   - https://nodejs.org/docs/latest/api/
-  - https://nodejs.org/docs/latest-v26.x/api/all.html
+  - https://nodejs.org/docs/latest/api/all.html
 - TSConfig Bases
   - https://github.com/tsconfig/bases
   - https://www.npmjs.com/package/@tsconfig/strictest
@@ -124,16 +127,23 @@
   - https://hono.dev/llms.txt
   - https://hono.dev/llms-small.txt
   - https://hono.dev/llms-full.txt
+  - https://github.com/honojs/hono
 - ORPC
   - https://orpc.dev/
   - https://orpc.dev/llms.txt
   - https://orpc.dev/llms-full.txt
+  - https://github.com/middleapi/orpc
 - Drizzle ORM
   - https://orm.drizzle.team/
   - https://orm.drizzle.team/llms.txt
   - https://orm.drizzle.team/llms-full.txt
   - https://github.com/drizzle-team/drizzle-orm
   - https://github.com/drizzle-team/drizzle-orm-docs
+- Kysely
+  - https://kysely.dev/
+  - https://kysely.dev/llms.txt
+  - https://kysely.dev/llms-full.txt
+  - https://github.com/kysely-org/kysely
 - Postgres.js
   - https://github.com/porsager/postgres
 - Better Auth
