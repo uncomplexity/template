@@ -68,6 +68,10 @@
   - https://hono.dev/llms.txt
   - https://hono.dev/llms-small.txt
   - https://hono.dev/llms-full.txt
+- ORPC
+  - https://orpc.dev/
+  - https://orpc.dev/llms.txt
+  - https://orpc.dev/llms-full.txt
 - Drizzle ORM
   - https://orm.drizzle.team/
   - https://orm.drizzle.team/llms.txt
