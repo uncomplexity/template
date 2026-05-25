@@ -28,14 +28,6 @@
 
 - We use GitHub for repository, branches, and workflows.
 - We use DigitalOcean for DNS, compute, and object storage.
-- GitHub Provider
-  - https://registry.terraform.io/providers/integrations/github/latest/docs
-  - https://search.opentofu.org/provider/opentofu/github/latest
-  - https://github.com/integrations/terraform-provider-github
-- DigitalOcean Provider
-  - https://registry.terraform.io/providers/digitalocean/digitalocean/latest
-  - https://search.opentofu.org/provider/opentofu/digitalocean/latest
-  - https://github.com/digitalocean/terraform-provider-digitalocean
 
 ## Unmanaged
 
@@ -69,6 +61,14 @@
 - Ansible
   - https://docs.ansible.com/
   - https://github.com/ansible/ansible
+- GitHub Provider
+  - https://registry.terraform.io/providers/integrations/github/latest/docs
+  - https://search.opentofu.org/provider/opentofu/github/latest
+  - https://github.com/integrations/terraform-provider-github
+- DigitalOcean Provider
+  - https://registry.terraform.io/providers/digitalocean/digitalocean/latest
+  - https://search.opentofu.org/provider/opentofu/digitalocean/latest
+  - https://github.com/digitalocean/terraform-provider-digitalocean
 
 ### Package Managers
 
