@@ -1,6 +1,14 @@
+# AGENTS.md
+
 ## Documentations
 
-#### Infrastructure
+### Programming Language
+
+- TypeScript
+  - https://www.typescriptlang.org/
+  - https://www.typescriptlang.org/docs/
+
+### Infrastructure
 
 - OpenTofu
   - https://opentofu.org/
@@ -19,7 +27,7 @@
   - https://docs.ansible.com/
   - https://github.com/ansible/ansible
 
-#### Package Managers
+### Package Managers
 
 - pnpm
   - https://pnpm.io/
@@ -29,7 +37,7 @@
   - https://docs.astral.sh/uv/llms.txt
   - https://github.com/astral-sh/uv
 
-#### Front-end
+### Front-end
 
 - React.js
   - https://react.dev/
@@ -57,7 +65,7 @@
   - https://fontsource.org/fonts/inter
   - https://fontsource.org/fonts/jetbrains-mono
 
-#### Back-end
+### Back-end
 
 - Node.js
   - https://nodejs.org/
@@ -86,7 +94,7 @@
   - https://www.npmjs.com/package/@tsconfig/node24
   - https://www.npmjs.com/package/@tsconfig/node-ts
 
-#### Databases
+### Databases
 
 - PostgreSQL
   - https://www.postgresql.org/docs/
@@ -100,12 +108,7 @@
   - https://github.com/typesense/typesense-website
   - https://github.com/typesense/typesense-js
 
-#### Code Linting & Formatting
-
-- Biome
-  - https://biomejs.dev/
-
-#### Utilities
+### Utilities
 
 - Lodash
   - https://lodash.com/
@@ -116,13 +119,12 @@
   - https://github.com/date-fns/date-fns
   - https://www.npmjs.com/package/date-fns
 
-#### Programming Language
+### Code Linting & Formatting
 
-- TypeScript
-  - https://www.typescriptlang.org/
-  - https://www.typescriptlang.org/docs/
+- Biome
+  - https://biomejs.dev/
 
-#### Tools
+### Tools
 
 - Mise
   - https://mise.en.dev/
