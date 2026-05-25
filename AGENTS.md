@@ -28,6 +28,8 @@
 
 - We use GitHub for repository, branches, and workflows.
 - We use DigitalOcean for DNS, compute, and object storage.
+- We use one machine for each deployment environment (staging & production).
+- We use one reserved ip address for each deployment environment (staging & production).
 
 ## Unmanaged
 
