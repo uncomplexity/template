@@ -63,6 +63,11 @@
   - https://nodejs.org/
   - https://nodejs.org/docs/latest/api/
   - https://nodejs.org/docs/latest-v26.x/api/all.html
+- Hono
+  - https://hono.dev/
+  - https://hono.dev/llms.txt
+  - https://hono.dev/llms-small.txt
+  - https://hono.dev/llms-full.txt
 - Drizzle ORM
   - https://orm.drizzle.team/
   - https://orm.drizzle.team/llms.txt
