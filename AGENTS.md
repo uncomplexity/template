@@ -1,5 +1,23 @@
 # AGENTS.md
 
+## Specifications
+
+### GitHub Workflows
+
+- Must be in `.github/workflows` folder.
+- `ci.yml` - automated integrations. runs test, create image, pushes image.
+- `cd.yml` - automated deployments. pulls image, run container.
+
+### Client
+
+- Must be in `client` folder.
+- Uses Tanstack Start, Fontsource, Mantine, & Recharts.
+
+### Server
+
+- Must be in `server` folder.
+- Uses Node.js, TSConfig Bases, Hono, ORPC, Drizzle, & Postgres.js.
+
 ## Documentations
 
 ### Programming Language
@@ -42,13 +60,19 @@
 - React.js
   - https://react.dev/
   - https://react.dev/llms.txt
-- Tanstack Start
-  - https://tanstack.com/
-  - https://tanstack.com/llms.txt
 - Vite
   - https://vite.dev/
   - https://vite.dev/llms.txt
   - https://vite.dev/llms-full.txt
+- Tanstack Start
+  - https://tanstack.com/
+  - https://tanstack.com/llms.txt
+- Fontsource
+  - https://fontsource.org/
+  - https://fontsource.org/llms.txt
+  - https://fontsource.org/llms-full.txt
+  - https://fontsource.org/fonts/inter
+  - https://fontsource.org/fonts/jetbrains-mono
 - Mantine
   - https://mantine.dev/
   - https://mantine.dev/llms.txt
@@ -58,12 +82,6 @@
 - Recharts
   - https://recharts.github.io/
   - https://github.com/recharts/recharts
-- Fontsource
-  - https://fontsource.org/
-  - https://fontsource.org/llms.txt
-  - https://fontsource.org/llms-full.txt
-  - https://fontsource.org/fonts/inter
-  - https://fontsource.org/fonts/jetbrains-mono
 
 ### Back-end
 
@@ -71,6 +89,11 @@
   - https://nodejs.org/
   - https://nodejs.org/docs/latest/api/
   - https://nodejs.org/docs/latest-v26.x/api/all.html
+- TSConfig Bases
+  - https://github.com/tsconfig/bases
+  - https://www.npmjs.com/package/@tsconfig/strictest
+  - https://www.npmjs.com/package/@tsconfig/node24
+  - https://www.npmjs.com/package/@tsconfig/node-ts
 - Hono
   - https://hono.dev/
   - https://hono.dev/llms.txt
@@ -88,11 +111,6 @@
   - https://github.com/drizzle-team/drizzle-orm-docs
 - Postgres.js
   - https://github.com/porsager/postgres
-- TSConfig Bases
-  - https://github.com/tsconfig/bases
-  - https://www.npmjs.com/package/@tsconfig/strictest
-  - https://www.npmjs.com/package/@tsconfig/node24
-  - https://www.npmjs.com/package/@tsconfig/node-ts
 
 ### Databases
 
