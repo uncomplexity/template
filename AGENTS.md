@@ -17,6 +17,10 @@
   - https://docs.docker.com/llms-full.txt
 - Ansible
   - https://docs.ansible.com/
+  - https://github.com/ansible/ansible
+- Mise
+  - https://mise.en.dev/
+  - https://github.com/jdx/mise
 
 #### Package Managers
 
@@ -99,3 +103,9 @@
   - https://date-fns.org/
   - https://github.com/date-fns/date-fns
   - https://www.npmjs.com/package/date-fns
+
+#### Programming Language
+
+- TypeScript
+  - https://www.typescriptlang.org/
+  - https://www.typescriptlang.org/docs/
